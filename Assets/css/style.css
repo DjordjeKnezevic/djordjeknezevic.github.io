@@ -1,0 +1,27 @@
+body {
+    margin: 0px auto;
+    display:flex;
+}
+
+aside {
+    width:50%;
+    height:100vh;
+}
+#levi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #BBBBBB;
+}
+#desni {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #CCCCCC;
+}
+hgroup {
+    font-size: 3em;
+}
+#moja-slika {
+    width: 45%;
+}
